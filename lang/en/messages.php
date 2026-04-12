@@ -1,0 +1,23 @@
+<?php
+return [
+    'logout' => 'Logout',
+    'search' => 'Search',
+    'add_task' => 'Add Task',
+    'done' => 'Done',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'completed' => 'Completed',
+    'pending' => 'Pending',
+    'all' => 'All',
+    'update' => 'Update',
+    'back' => 'Back',
+    'edit_task' => 'Edit Task',
+    'task' => 'Task',
+    'done' => 'Done',
+    'added' => 'Task added successfully',
+    'deleted' => 'Task deleted successfully',
+    'updated' => 'Task updated successfully',
+    'search_placeholder' => 'Search tasks...',
+    'adding_new_task_placeholder' => 'Add new task...',
+    'to_do_list' => 'To-Do List',
+];
